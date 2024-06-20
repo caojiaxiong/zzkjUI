@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as s,e as a,f as o}from"./app-BpxWtSyF.js";const c={name:"cbtn"},r={class:"btn"};function d(e,_,l,f,p,u){return n(),s("button",r,[a("span",null,[o(e.$slots,"default",{},void 0,!0)])])}const b=t(c,[["render",d],["__scopeId","data-v-a5d7c3d1"],["__file","cbtn1.vue"]]);export{b as default};
